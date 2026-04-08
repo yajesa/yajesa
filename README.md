@@ -18,12 +18,11 @@
 - ### 📂 More Projects
 | 프로젝트명 | 요약 설명 | 사용 기술 | 링크 |
 | :--- | :--- | :--- | :--- |
-| **VR 공포 탈출** | 오감을 자극하는 VR 퍼즐 게임 | Unity, SteamVR | [바로가기](https://github.com/yajesa/tttt) |
-| **셰이더 효과 모음** | HLSL을 활용한 물, 불 효과 | Unity, URP | [바로가기](주소) |
+| **셰이더 효과 모음** | HLSL을 활용한 물, 불 효과 | Unity, URP | [바로가기]([주소](https://github.com/yajesa/tttt)) |
 | **미니 카트 레이싱** | 네트워크 멀티플레이 레이싱 | Unity, Photon | [바로가기](주소) |
 
 ### 🚀 Project History
-- [x] **[RPG 개발]**(주소) - Unity 기반의 쿼터뷰 액션 RPG (완료)
+- [x] **[RPG 개발]**([주소](https://github.com/yajesa/tttt)) - Unity 기반의 쿼터뷰 액션 RPG (완료)
 - [x] **[포트리스 클론]**(주소) - 물리 엔진 활용 투사체 게임 (완료)
 - [ ] **[메타버스 캠퍼스]**(주소) - 실시간 다중 접속 시스템 (진행 중 🛠️)
 
