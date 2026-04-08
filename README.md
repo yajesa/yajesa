@@ -33,10 +33,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yajesa&show_icons=true&theme=radical" alt="yajesa's GitHub stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajesa&layout=compact&theme=radical" alt="Top Langs" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yajesa&show_icons=true&theme=radical&hide_border=false" alt="GitHub Stats" height="180px"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yajesa&layout=compact&theme=radical&hide_border=false" alt="Top Langs" height="180px"/>
 </div>
-
 <br>
 
 ## 🔥 Contribution Streak
