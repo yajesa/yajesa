@@ -14,6 +14,7 @@
 - 🌱 **Next.js**와 **TypeScript**를 깊게 공부 중입니다.
 - 💬 **React**, **Node.js**에 대해 이야기 나누는 것을 좋아합니다.
 - ⚡ **"꾸준함이 최고의 재능이다"**라는 좌우명을 가지고 있습니다.
+- https://github.com/yajesa/tttt
 
 <br>
 
