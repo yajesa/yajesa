@@ -18,7 +18,7 @@
 - ### 📂 More Projects
 | 프로젝트명 | 요약 설명 | 사용 기술 | 링크 |
 | :--- | :--- | :--- | :--- |
-| **셰이더 효과 모음** | HLSL을 활용한 물, 불 효과 | Unity, URP | [바로가기]([주소](https://github.com/yajesa/tttt)) |
+| **셰이더 효과 모음** | HLSL을 활용한 물, 불 효과 | Unity, URP | [바로가기](https://github.com/yajesa/tttt) |
 | **미니 카트 레이싱** | 네트워크 멀티플레이 레이싱 | Unity, Photon | [바로가기](주소) |
 
 ### 🚀 Project History
