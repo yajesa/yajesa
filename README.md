@@ -15,6 +15,12 @@
 - 💬 **React**, **Node.js**에 대해 이야기 나누는 것을 좋아합니다.
 - ⚡ **"꾸준함이 최고의 재능이다"**라는 좌우명을 가지고 있습니다.
 - https://github.com/yajesa/tttt
+- ### 📂 More Projects
+| 프로젝트명 | 요약 설명 | 사용 기술 | 링크 |
+| :--- | :--- | :--- | :--- |
+| **VR 공포 탈출** | 오감을 자극하는 VR 퍼즐 게임 | Unity, SteamVR | [바로가기](https://github.com/yajesa/tttt) |
+| **셰이더 효과 모음** | HLSL을 활용한 물, 불 효과 | Unity, URP | [바로가기](주소) |
+| **미니 카트 레이싱** | 네트워크 멀티플레이 레이싱 | Unity, Photon | [바로가기](주소) |
 
 <br>
 
